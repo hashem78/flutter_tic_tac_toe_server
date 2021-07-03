@@ -1,0 +1,1 @@
+# Please check the main repo (flutter_tic_tac_toe) for information on how to use this server script
